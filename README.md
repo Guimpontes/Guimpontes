@@ -2,11 +2,9 @@
 
 - 🌱 Desenvolvimento web Full Stack
 
- 
-
 <div>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guimpontes&theme=tokyonight&show_icons=true">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guimpontes&theme=tokyonight&card_width=350em">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimpontes&theme=tokyonight&show_icons=true&card_width=180em&layout=compact">
 </div>
 
 
